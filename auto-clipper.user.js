@@ -3,7 +3,7 @@
 // @icon         https://code.neureka.dev/uploads/-/system/project/avatar/9/walmart-icon.png
 // @namespace    https://code.neureka.dev/userscripts/walmart-offers-auto-clipper
 // @version      1.0.0
-// @description  A Violentmonkey userscript that will automatically clip your Offers from Walmart.
+// @description  A userscript that will automatically clip your Offers from Walmart.
 // @author       Neureka
 // @downloadURL  https://code.neureka.dev/userscripts/walmart-offers-auto-clipper/-/raw/main/auto-clipper.user.js
 // @supportURL   https://code.neureka.dev/userscripts/walmart-offers-auto-clipper/-/issues
@@ -15,12 +15,12 @@
 (function() {
     'use strict';
 
-    const STARTUP_DELAY      = 2500;
-    const ACTION_DELAY       = 1000;
+    const STARTUP_DELAY       = 2500;
+    const ACTION_DELAY        = 1000;
     const DISPLAY_STATISTICS = true;
 
-    let totalOffersClipped  = 0;
-    let offersClipped       = false;
+    let totalOffersClipped    = 0;
+    let offersClipped        = false;
     let statisticsSent       = false;
 
     setTimeout(function() {
@@ -39,7 +39,7 @@
     }, STARTUP_DELAY);
 
     function clipCoupons() {
-        // Select all checkbox inputs with the class 'w_9fd1'
+        // Select all checkbox inputs with the class 'input' that has the type 'checkbox'
         const checkboxes = document.querySelectorAll('input[type="checkbox"]');
 
         // Loop through each checkbox and click it

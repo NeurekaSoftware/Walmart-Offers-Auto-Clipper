@@ -1,6 +1,6 @@
 # Walmart Offer Auto-clipper
 
-A [Violentmonkey](https://violentmonkey.github.io/get-it/) userscript that will automatically clip your [Offers](https://www.walmart.com/offer/all-offers) from [Walmart](https://www.walmart.com/).
+A userscript that will automatically clip your [Offers](https://www.walmart.com/offer/all-offers) from [Walmart](https://www.walmart.com/).
 
 ## Getting Started
 
@@ -13,12 +13,12 @@ A [Violentmonkey](https://violentmonkey.github.io/get-it/) userscript that will 
 
 Before you can install the Walmart Offer Auto-clipper, you need to install a Userscript Manager extension for your desktop web browser.
 
-I highly recommend that you use [Violentmonkey](https://violentmonkey.github.io/get-it/).
+I highly recommend that you use [Tampermonkey](https://www.tampermonkey.net/).
 
 ### Install Walmart Offer Auto-clipper
 
 1) Open the Walmart Offer Auto-clipper [installer](https://code.neureka.dev/userscripts/walmart-offers-auto-clipper/-/raw/main/auto-clipper.user.js).
-2) Click install on the page that opens, or press `Ctrl` + `Enter`.
+2) Click install on the page that opens.
 
 ### Start Saving!
 
