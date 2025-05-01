@@ -6,8 +6,6 @@ A userscript that will automatically clip your [Offers](https://www.walmart.com/
 
 > [!TIP]
 > Changes to the Walmart website can break this userscript. Please double check that your offers have been clipped before going shopping!
->
-> Please submit a bug report [here](https://code.neureka.dev/userscripts/walmart-offers-auto-clipper/-/issues) if you have any issues.
 
 ### Install a Userscript Manager
 
@@ -17,7 +15,7 @@ I highly recommend that you use [Tampermonkey](https://www.tampermonkey.net/).
 
 ### Install Walmart Offer Auto-clipper
 
-1) Open the Walmart Offer Auto-clipper [installer](https://code.neureka.dev/userscripts/walmart-offers-auto-clipper/-/raw/main/auto-clipper.user.js).
+1) Open the Walmart Offer Auto-clipper [installer](https://github.com/NeurekaSoftware/Walmart-Offers-Auto-Clipper/raw/refs/heads/main/auto-clipper.user.js).
 2) Click install on the page that opens.
 
 ### Start Saving!

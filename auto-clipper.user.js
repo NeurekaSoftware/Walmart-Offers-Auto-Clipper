@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Walmart Offers Auto-clipper
-// @icon         https://code.neureka.dev/uploads/-/system/project/avatar/9/walmart-icon.png
-// @namespace    https://code.neureka.dev/userscripts/walmart-offers-auto-clipper
+// @icon         https://github.com/NeurekaSoftware/Walmart-Offers-Auto-Clipper/raw/refs/heads/main/icon.png
+// @namespace    https://github.com/NeurekaSoftware/Walmart-Offers-Auto-Clipper
 // @version      1.0.0
 // @description  A userscript that will automatically clip your Offers from Walmart.
 // @author       Neureka
-// @downloadURL  https://code.neureka.dev/userscripts/walmart-offers-auto-clipper/-/raw/main/auto-clipper.user.js
-// @supportURL   https://code.neureka.dev/userscripts/walmart-offers-auto-clipper/-/issues
+// @downloadURL  https://github.com/NeurekaSoftware/Walmart-Offers-Auto-Clipper/raw/refs/heads/main/auto-clipper.user.js
+// @supportURL   https://github.com/NeurekaSoftware/Walmart-Offers-Auto-Clipper/issues
 // @match        https://www.walmart.com/offer/all-offers
 // @run-at       document-idle
 // @grant        none
